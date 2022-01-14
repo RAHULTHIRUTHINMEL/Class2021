@@ -1,4 +1,4 @@
-from Merge import Merge
+from sortMerge import Merge
 from random import randint
 
 

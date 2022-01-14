@@ -1,4 +1,4 @@
-from Quick import Quick
+from sortQuick import Quick
 from random import randint
 
 
